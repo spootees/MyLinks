@@ -14,9 +14,7 @@
     padding-bottom: calc(10rem - 4.5rem);
     
     background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: contain;
+    background-size: cover;
     background: linear-gradient(to bottom, rgba(107, 153, 142, 0.8) 0%, rgba(103, 158, 145, 0.6) 100%), url("~/assets/Img/background4.png");
     /*background: url("~/assets/Img/background2.png");*/
     color:rgb(135, 189, 189);
